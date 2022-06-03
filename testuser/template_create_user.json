@@ -1,0 +1,42 @@
+{
+  "buy_equals_pay": {
+    "seller": false
+  },
+  "country": "",
+  "account_money": 0,
+  "address": {
+    "quantity": 0
+  },
+  "seller_experience": "",
+  "purchase": {
+    "seller": {
+      "avoid_owner_validation": true,
+      "id": 0
+    },
+    "quantity": 0,
+    "items": []
+  },
+  "type": "",
+  "cart": {
+    "seller": {
+      "avoid_owner_validation": true,
+      "id": 0
+    },
+    "quantity": 0,
+    "items": [],
+    "status": ""
+  },
+  "points": 0,
+  "site_users_publish": [],
+  "mercado_envios": "",
+  "credit_cards": 0,
+  "site_id": "$USER_SITE$",
+  "orders": 0,
+  "loyalty_level": "",
+  "credit": {
+    "consumed": 0,
+    "level_id": "",
+    "rank": "newbie"
+  },
+  "email": "$PERSONAL_EMAIL$"
+}
